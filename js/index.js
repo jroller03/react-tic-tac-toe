@@ -112,7 +112,7 @@ var Game = function (_React$Component3) {
 
   return Game;
 }(React.Component);
-
+// test
 // ========================================
 
 ReactDOM.render(React.createElement(Game, null), document.getElementById('root'));
